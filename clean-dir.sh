@@ -8,8 +8,6 @@
 #date            :2020-09-10
 ##########################################################################
 
-#Added this example of code to check versioning, this is version 1
-
 if [ "$#" -lt 3 ] 
 then
   exit 1
