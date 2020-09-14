@@ -9,6 +9,7 @@
 ##########################################################################
 
 #Added this example of code to check versioning, this is version 1
+#Added this example of code to check versioning, this is version 2
 
 if [ "$#" -lt 3 ] 
 then
